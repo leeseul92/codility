@@ -1,3 +1,4 @@
+package arrays;
 class OddOccurrencesInArray {
     public int solution(int[] A){
         //stack 사용
