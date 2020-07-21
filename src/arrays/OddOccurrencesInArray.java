@@ -1,4 +1,11 @@
 package arrays;
+/**
+ * 이 클래스는 해당 문제를 스택을 사용한 클래스입니다.
+ * --오답--
+ * @author leeseulkim
+ * @see
+ * 	OddOccurrencesInArray02.java
+ */
 
 import java.util.*;
 
