@@ -16,6 +16,12 @@ public class PerMissingEle02 {
 
         Collections.sort(list);
 
+        if(len > 1){
+            for(int i = 0; i < len; i++){
+                
+            }
+        }
+
         return rst;
     }
 }
