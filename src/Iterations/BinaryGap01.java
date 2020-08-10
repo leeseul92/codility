@@ -5,7 +5,7 @@ package Iterations;
  */
 
 import java.util.*;
-import java.io.*;
+// import java.io.*;
 
 public class BinaryGap01 {
 	public static int solution(int N) {

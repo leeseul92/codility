@@ -1,6 +1,6 @@
 package test;
 
-import java.util.*;
+// import java.util.*;
 
 public class Test03 {
 	public static int solution(String S) {
@@ -10,7 +10,7 @@ public class Test03 {
 		int rst = 0;
 		//a의 갯수 
 		int cnt = 0;
-		String[] sRst = new String[3];
+		// String[] sRst = new String[3];
 		
 		for(int i = 0; i < S.length(); i++) {
 			if(S.charAt(i) == 'a') {

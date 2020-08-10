@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.*;
 
-import javax.swing.*;
+// import javax.swing.*;
 
 public class OddOccurrencesInArray02 {
 	public int solution(int[] A) {
