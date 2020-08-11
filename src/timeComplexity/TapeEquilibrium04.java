@@ -25,6 +25,6 @@ public class TapeEquilibrium04 {
     public static void main(String[] args) {
         int[] A = {3, 1, 2, 4, 3};
         int rst = solution(A);
-        // System.out.println(rst);
+        System.out.println(rst);
     }
 }
