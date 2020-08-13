@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxCounters<codility>",
+            "request": "launch",
+            "mainClass": "countingElements.MaxCounters",
+            "projectName": "codility"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxCounters02<codility>",
+            "request": "launch",
+            "mainClass": "countingElements.MaxCounters02",
+            "projectName": "codility"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxCounters04<codility>",
+            "request": "launch",
+            "mainClass": "countingElements.MaxCounters04",
+            "projectName": "codility"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CountDiv02<codility>",
+            "request": "launch",
+            "mainClass": "prefixSums.CountDiv02",
+            "projectName": "codility"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GenomicRangeQuery<codility>",
+            "request": "launch",
+            "mainClass": "prefixSums.GenomicRangeQuery",
+            "projectName": "codility"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test01<codility>",
+            "request": "launch",
+            "mainClass": "test.Test01",
+            "projectName": "codility"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test02<codility>",
+            "request": "launch",
+            "mainClass": "test.Test02",
+            "projectName": "codility"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test03<codility>",
+            "request": "launch",
+            "mainClass": "test.Test03",
+            "projectName": "codility"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Example<codility>",
+            "request": "launch",
+            "mainClass": "timeComplexity.Example",
+            "projectName": "codility"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TapeEquilibrium<codility>",
+            "request": "launch",
+            "mainClass": "timeComplexity.TapeEquilibrium",
+            "projectName": "codility"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TapeEquilibrium02<codility>",
+            "request": "launch",
+            "mainClass": "timeComplexity.TapeEquilibrium02",
+            "projectName": "codility"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TapeEquilibrium03<codility>",
+            "request": "launch",
+            "mainClass": "timeComplexity.TapeEquilibrium03",
+            "projectName": "codility"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TapeEquilibrium04<codility>",
+            "request": "launch",
+            "mainClass": "timeComplexity.TapeEquilibrium04",
+            "projectName": "codility"
+        }
+    ]
+}
